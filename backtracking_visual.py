@@ -7,14 +7,9 @@
     1. N-Rainhas
     2. Sudoku Solver
 
-  Autores: Dário Puíssa João | Félix Bongue
+  Autores: Dário Puíssa João | Félix Firmino Bongue
   Curso: Ciência da Computação — 3.º Ano
   Disciplina: Laboratório de Programação Avançada
-
-  Como executar:
-    python backtracking_visual.py
-  Requisitos:
-    Python 3.x  (tkinter já vem incluído)
 =============================================================
 """
 
